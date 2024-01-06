@@ -16,4 +16,5 @@ h2 {
 
 .image-container {
     text-align: center;
+    flex: auto;
 }
